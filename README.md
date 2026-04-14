@@ -111,10 +111,10 @@ Computer Science student focused on building secure and scalable systems.
 
 <p align="center">
   <a href="mailto:ericwambua.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00ff99?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-29201F?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://github.com/HOODBORN098">
-    <img src="https://img.shields.io/badge/GitHub-00ff99?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/GitHub-29201F?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
