@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HOODBORNO98&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/HOODBORNO98?label=Followers&style=for-the-badge&color=00ff99" />
+  <img src="https://komarev.com/ghpvc/?username=HOODBORN098&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/HOODBORN098?label=Followers&style=for-the-badge&color=00ff99" />
 </p>
 
 <p align="center">
@@ -77,15 +77,15 @@ Computer Science student focused on building secure and scalable systems.
 ## GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HOODBORNO98&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff99&icon_color=00ff99" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HOODBORN098&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff99&icon_color=00ff99" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HOODBORNO98&theme=tokyonight&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" />
+  <img src="https://streak-stats.demolab.com?user=HOODBORN098&theme=tokyonight&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HOODBORNO98&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HOODBORN098&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&hide_border=true" />
 </p>
 
 ---
@@ -113,7 +113,7 @@ Computer Science student focused on building secure and scalable systems.
   <a href="mailto:ericwambua.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-00ff99?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  <a href="https://github.com/HOODBORNO98">
+  <a href="https://github.com/HOODBORN098">
     <img src="https://img.shields.io/badge/GitHub-00ff99?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
