@@ -1,93 +1,125 @@
-<h1 align="center" style="color:#00ff99;">Eric Wambua</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=40&center=true&vCenter=true&width=800&lines=Eric+Wambua;Software+Engineer;Cybersecurity+Analyst;Data+Engineer" />
+</h1>
 
 <p align="center">
-  Software Engineer • Security Analyst • Data Engineer
+  <img src="https://komarev.com/ghpvc/?username=HOODBORNO98&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/HOODBORNO98?label=Followers&style=for-the-badge&color=00ff99" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&center=true&vCenter=true&lines=Backend+Engineer;Cybersecurity+Enthusiast;API+Developer;Data+Engineer" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=00ff99&style=flat" />
-</p>
-
----
-
-### 🧠 About Me
-
-Computer Science student focused on backend engineering and cybersecurity.
-
-- Build APIs and backend systems  
-- Work with databases and data pipelines  
-- Practice penetration testing and system security  
-- Interested in real-world problem solving  
-
----
-
-### ⚙️ Engineering | 🔐 Security
-
-| ⚙️ Engineering | 🔐 Security |
-|---------------|------------|
-| API Development | Penetration Testing |
-| Backend Systems | OWASP Security |
-| Data Pipelines | Network Analysis |
-| REST APIs | Vulnerability Assessment |
-| CI/CD | Incident Reporting |
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,mysql,docker,linux,git" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=120&section=header"/>
 </p>
 
 ---
 
-### 🧩 Focus Areas
+## SYSTEM PROFILE
+
+```yaml
+Name: Eric Wambua
+Role: Software Engineer | Security Analyst | Data Engineer
+Focus: Backend Systems, API Engineering, Cybersecurity
+Location: Nairobi, Kenya
+```
+
+---
+
+## ABOUT
+
+Computer Science student focused on building secure and scalable systems.
+
+- Design backend architectures and APIs  
+- Build and manage data pipelines  
+- Perform penetration testing and vulnerability assessments  
+- Analyze systems from both engineering and attacker perspectives  
+
+---
+
+## CORE DOMAINS
 
 <p align="center">
-  
-![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-00ff99?style=flat)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-00ff99?style=flat)
-![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-00ff99?style=flat)
-![API Security](https://img.shields.io/badge/-API%20Security-00ff99?style=flat)
-![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-00ff99?style=flat)
-
+  <img src="https://img.shields.io/badge/Backend_Engineering-00ff99?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-00ff99?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Security-00ff99?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Engineering-00ff99?style=for-the-badge"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## TECH STACK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,react,mysql,docker,linux,git,github" />
 </p>
 
 ---
 
-### 🌍 Languages
+## ENGINEERING CAPABILITIES
 
-- English – Proficient  
-- Kiswahili – Native  
-- French – Learning  
-
----
-
-### 🚀 Current Goals
-
-- Build secure backend systems  
-- Master API security  
-- Improve penetration testing skills  
-- Contribute to open source  
+- REST API design and development  
+- Backend system architecture  
+- Database design and optimization  
+- CI/CD pipeline implementation  
+- Containerization with Docker  
 
 ---
 
-<p align="center" style="color:#00ff99;">
-  "Any sufficiently advanced technology is indistinguishable from magic." – Arthur C. Clarke
+## SECURITY CAPABILITIES
+
+- Penetration testing  
+- OWASP Top 10 vulnerability analysis  
+- API security testing  
+- Network traffic inspection  
+- Incident reporting and mitigation  
+
+---
+
+## GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HOODBORNO98&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff99&icon_color=00ff99" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HOODBORNO98&theme=tokyonight&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HOODBORNO98&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&hide_border=true" />
+</p>
+
+---
+
+## CURRENT OBJECTIVES
+
+- Build production-grade backend systems  
+- Strengthen API security expertise  
+- Advance penetration testing skills  
+- Contribute to open-source projects  
+
+---
+
+## LANGUAGES
+
+- English — Professional  
+- Kiswahili — Native  
+- French — Learning  
+
+---
+
+## CONTACT
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-00ff99?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://github.com/HOODBORNO98">
+    <img src="https://img.shields.io/badge/GitHub-00ff99?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=120&section=footer"/>
 </p>
