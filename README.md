@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💀 HOODBORN098
 
-<!--
-**HOODBORN098/HOODBORN098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer • Security Enthusiast • Creative Technologist
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HOODBORN098&show_icons=true&theme=radical)
+
+### 📌 Pinned Projects
+
+- [bava-final](https://github.com/HOODBORN098/bava-final)
+- [rift-valley-lights-final](https://github.com/HOODBORN098/rift-valley-lights-final)
+- [Eric-s-portfolio](https://github.com/HOODBORN098/Eric-s-portfolio)
+
+---
+
+*Code. Create. Repeat.*
