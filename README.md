@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HOODBORN098&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/HOODBORN098?label=Followers&style=for-the-badge&color=00ff99" />
+  <img src="https://komarev.com/ghpvc/?username=HOODBORN098&label=PROFILE+VIEWS&color=29201F&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/HOODBORN098?label=Followers&style=for-the-badge&color=29201F" />
 </p>
 
 <p align="center">
