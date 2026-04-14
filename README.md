@@ -81,7 +81,7 @@ Computer Science student focused on building secure and scalable systems.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HOODBORNO98&theme=tokyonight&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" />
+  <img src="https://streak-stats.demolab.com?user=HOODBORNO98&theme=tokyonight&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" />
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ Computer Science student focused on building secure and scalable systems.
 ## CONTACT
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ericwambua.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-00ff99?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://github.com/HOODBORNO98">
