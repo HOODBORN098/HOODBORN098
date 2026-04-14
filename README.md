@@ -38,10 +38,10 @@ Computer Science student focused on building secure and scalable systems.
 ## CORE DOMAINS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend_Engineering-00ff99?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-00ff99?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API_Security-00ff99?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Engineering-00ff99?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend_Engineering-29201F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-29201F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Security-29201F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Engineering-29201F?style=for-the-badge"/>
 </p>
 
 ---
