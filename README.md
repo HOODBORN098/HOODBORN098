@@ -1,125 +1,54 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=40&center=true&vCenter=true&width=800&lines=Eric+Wambua;Software+Engineer;Cybersecurity+Analyst;Data+Engineer" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HOODBORN098&label=PROFILE+VIEWS&color=29201F&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/HOODBORN098?label=Followers&style=for-the-badge&color=29201F" />
+# Eric Wambua
+
+**Full-stack engineer building fintech & business tools for the Kenyan market**
+
+Nairobi, Kenya · [ericwambua.dev@gmail.com](mailto:ericwambua.dev@gmail.com)
+
+</div>
+
+<br>
+
+I design and ship backend systems and product-facing apps for Kenyan SMEs and startups —
+POS systems, chama (ROSCA) management platforms, ERP tools, and property/booking apps.
+Most of what I build touches M-Pesa (Daraja, STK Push, Till/Paybill, Pochi la Biashara) and
+has to work for real businesses, not demo data.
+
+**Recent work:**
+- ROSCA/chama management platform — member rotations, group voting, meeting scheduling
+- Multi-tenant POS with weighted-average cost tracking and M-Pesa integration
+- Property management system with OAuth + Daraja payments
+- Kenyan ERP spanning POS, Accounting, CRM, HR, and Payroll modules
+
+I care about clean separation of concerns, surgical changes over rewrites, and shipping
+things that hold up once real users start clicking around.
+
+<br>
+
+## Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,typescript,js,php,laravel,postgres,prisma,mongodb,docker,git" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=120&section=header"/>
+<br>
+
+## Also working on
+
+- API security fundamentals & OWASP-driven review of my own backends
+- Contributing to open source where the fintech-for-Africa itch shows up
+- French, slowly
+
+<br>
+
+## Elsewhere
+
+<p align="left">
+  <a href="mailto:ericwambua.dev@gmail.com">Email</a> ·
+  <a href="https://github.com/HOODBORN098">GitHub</a>
 </p>
 
----
+<br>
 
-## SYSTEM PROFILE
-
-```yaml
-Name: Eric Wambua
-Role: Software Engineer | Security Analyst | Data Engineer
-Focus: Backend Systems, API Engineering, Cybersecurity
-Location: Nairobi, Kenya
-```
-
----
-
-## ABOUT
-
-Computer Science student focused on building secure and scalable systems.
-
-- Design backend architectures and APIs  
-- Build and manage data pipelines  
-- Perform penetration testing and vulnerability assessments  
-- Analyze systems from both engineering and attacker perspectives  
-
----
-
-## CORE DOMAINS
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend_Engineering-29201F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-29201F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API_Security-29201F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Engineering-29201F?style=for-the-badge"/>
-</p>
-
----
-
-## TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,react,mysql,docker,linux,git,github" />
-</p>
-
----
-
-## ENGINEERING CAPABILITIES
-
-- REST API design and development  
-- Backend system architecture  
-- Database design and optimization  
-- CI/CD pipeline implementation  
-- Containerization with Docker  
-
----
-
-## SECURITY CAPABILITIES
-
-- Penetration testing  
-- OWASP Top 10 vulnerability analysis  
-- API security testing  
-- Network traffic inspection  
-- Incident reporting and mitigation  
-
----
-
-## GITHUB ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HOODBORN098&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff99&icon_color=00ff99" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HOODBORN098&theme=tokyonight&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HOODBORN098&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&hide_border=true" />
-</p>
-
----
-
-## CURRENT OBJECTIVES
-
-- Build production-grade backend systems  
-- Strengthen API security expertise  
-- Advance penetration testing skills  
-- Contribute to open-source projects  
-
----
-
-## LANGUAGES
-
-- English — Professional  
-- Kiswahili — Native  
-- French — Learning  
-
----
-
-## CONTACT
-
-<p align="center">
-  <a href="mailto:ericwambua.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-29201F?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  <a href="https://github.com/HOODBORN098">
-    <img src="https://img.shields.io/badge/GitHub-29201F?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=120&section=footer"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=HOODBORN098&show_icons=true&hide_border=true&hide_title=true&theme=default&title_color=222&text_color=444&icon_color=222&bg_color=00000000" width="480" />
