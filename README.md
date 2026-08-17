@@ -4,7 +4,7 @@
 
 **Full-stack engineer building fintech & business tools for the Kenyan market**
 
-Nairobi, Kenya · [ericwambua.dev@gmail.com](mailto:ericwambua.dev)
+Nairobi, Kenya ·
 
 </div>
 
